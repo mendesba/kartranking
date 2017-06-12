@@ -1,0 +1,2 @@
+Desenvolvido no Neatbeans
+Como não possui um padrão nas linhas do log de exemplo foi implementado um replace " " e TAB, subistituindo por ";".
